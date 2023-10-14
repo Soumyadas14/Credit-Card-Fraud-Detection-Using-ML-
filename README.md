@@ -1,4 +1,5 @@
 #Fraud Detection - Credit Card Fraud Detection
+
 Abstract :
 This project mainly focuses on handling imbalanced datasets and detecting credit-card frauds using Following Machine Learning Algorithms:
 
@@ -11,9 +12,7 @@ c) DecisionTreeClassifier
 
 These models are fittted to different datasets acquired after StandardScaler, Oversampling, Undersampling and SMOTE techniques. Thus, separate files are created for each Machine Learning Models so that every datasets acquired after above mentioned techniques are fitted separately to our model using single function.
 
-HOW TO START ?
-Start withmain.ipynb first and go to any model files.
-main.ipynb - It contains all the processes of loading of datasets, preprocessing and EDA & Visualization.
+It contains all the processes of loading of datasets, preprocessing and EDA & Visualization.
 
 ABOUT DATASETS:
 URL : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
